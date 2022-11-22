@@ -17,3 +17,7 @@ kubectl port-forward services/crawlab 8000:80 -n crawlab
 # 调整worker数
 kubectl scale -n crawlab deployment crawlab-worker --replicas=3
 ```
+
+## 参考
+
+- [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab)
