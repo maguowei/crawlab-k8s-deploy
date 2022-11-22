@@ -21,3 +21,4 @@ kubectl scale -n crawlab deployment crawlab-worker --replicas=3
 ## 参考
 
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab)
+- [crawlab-team/crawlab-core](https://github.com/crawlab-team/crawlab-core)
